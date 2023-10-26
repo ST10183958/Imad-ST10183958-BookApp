@@ -1,0 +1,7 @@
+References
+https://reactnavigation.org/ ( navigation )
+https://reactnative.dev/docs/navigation ( navigation )
+https://reactnavigation.org/docs/params/ ( Data passing )
+https://stackoverflow.com/questions/66737335/how-i-can-converting-numbers-from-input-to-int-in-react-js ( Converting a value to an int )
+https://reactnative.dev/docs/textinput ( input fields) 
+
